@@ -1,0 +1,11 @@
+# Subfolders
+dat/
+bin/
+obj/
+complex_bessel/
+# Files
+*~
+*.cbp
+*.depend
+*.layout
+*.out
